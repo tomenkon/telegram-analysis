@@ -12,5 +12,4 @@ My goal for this project was to analyze interpersonal relatiоnships through Tel
 I selected top-10 people by the total number of messages since they are supposed to be the closest to me. So, the vast majority of questions is focused on
  different aspects of those personal dialogs and in set to bring some clarity on how those dialogs differ.
 For the sake of anonimity (and because I usually save people in contacts list with weird names), the names of top-10 people were replaced with programming languages. 
-
 (But if you reuse this project then your contact names will be as you saved them, because renaming I did manually in the csv file)
